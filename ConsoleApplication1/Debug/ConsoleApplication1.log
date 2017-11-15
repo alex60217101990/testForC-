@@ -1,0 +1,11 @@
+﻿  point2D.cpp
+  main.cpp
+c:\users\alex\desktop\test_work_ershov\consoleapplication1\main.cpp(37): warning C4101: exep: неиспользованная локальная переменная
+c:\users\alex\desktop\test_work_ershov\consoleapplication1\main.cpp(48): warning C4101: exep: неиспользованная локальная переменная
+c:\users\alex\desktop\test_work_ershov\consoleapplication1\main.cpp(64): warning C4101: ex: неиспользованная локальная переменная
+c:\users\alex\desktop\test_work_ershov\consoleapplication1\main.cpp(75): warning C4101: ex: неиспользованная локальная переменная
+  Создание кода...
+c:\users\alex\desktop\test_work_ershov\consoleapplication1\point2d.cpp(54): warning C4715: point2D::operator==: значение возвращается не при всех путях выполнения
+c:\users\alex\desktop\test_work_ershov\consoleapplication1\point2d.cpp(64): warning C4715: point2D::operator!=: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\Alex\Desktop\test_work_Ershov\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Alex\Desktop\test_work_Ershov\Debug\ConsoleApplication1.pdb (Full PDB)
